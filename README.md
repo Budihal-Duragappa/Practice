@@ -4,7 +4,8 @@ Using System;
  
   public class Customer{
    public Customer(){}
-  private string name
+  private string name;
+  private double price;
   }
  
  }
