@@ -4,7 +4,7 @@ Using System;
  
   public class Customer{
    public Customer(){}
-  
+  private string name
   }
  
  }
